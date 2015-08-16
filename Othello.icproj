@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Othello"
+	ProjectGUID="{3AFCC468-57B4-4F86-9128-92DB4A2173E1}"
+	VCNestedProjectGUID="{8CD0589F-967D-40A7-99BB-583A7EF5F03E}"
+	VCNestedProjectFileName="Othello.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
